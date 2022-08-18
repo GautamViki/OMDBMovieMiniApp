@@ -29,4 +29,5 @@ body{
     margin-left: -5px;
     background-color: #0046c3;
     color: white;
+    cursor: pointer;
 }
